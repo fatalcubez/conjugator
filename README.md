@@ -1,0 +1,2 @@
+# conjugator
+Spanish conjugating tool.
